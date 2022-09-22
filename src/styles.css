@@ -1,1 +1,23 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+
+
+
+button{
+  background-color:#ECB10C ;
+}
+.btn-primary{
+  background-color: #ECB10C;
+}
+label{
+  color: #0D3248;
+  font-family: "Sitka Text", serif;
+  font-weight: bold;
+}
+
+h1{
+
+}
+h2{
+  color: #0D3248;
+}
